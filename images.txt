@@ -1,1 +1,1 @@
-openjdk:latest
+openjdk:8
